@@ -1,0 +1,14 @@
+flask==2.3.3
+flask-cors==4.0.0
+flask-jwt-extended==4.5.3
+flask-sqlalchemy==3.0.5
+pymysql==1.1.0
+cryptography==41.0.4
+python-dotenv==1.0.0
+requests==2.31.0
+werkzeug==2.3.7
+marshmallow==3.20.1
+flask-marshmallow==0.15.0
+marshmallow-sqlalchemy==0.29.0
+pillow==10.0.1
+python-multipart==0.0.6
